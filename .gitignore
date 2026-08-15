@@ -22,3 +22,4 @@ unit_out.txt
 # Temp files
 *.tmp
 temp/
+.aider*
